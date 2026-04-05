@@ -1,0 +1,411 @@
+Uri: https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs@gh-pages/qrcode.min.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\gh\davidshimjs\qrcodejs@gh-pages\qrcode.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jsbarcode@3.11.0/dist/JsBarcode.all.min.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\npm\jsbarcode@3.11.0\dist\JsBarcode.all.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\npm\slick-carousel@1.8.1\slick\slick-1.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\npm\slick-carousel@1.8.1\slick\slick.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400-2.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400-3.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400-1.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400-2.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400-3.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400-1.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900-2.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900-3.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900-1.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\jquery-3.6.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.4.min.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\jquery-3.6.4.min-1.js
+Content Type: application/javascript
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_664380-MLA106035591662_022026-F.webp?v=1775312273
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_664380-MLA106035591662_022026-F.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_664380-MLA106035591662_022026-F_500x500.webp?v=1775312273
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_664380-MLA106035591662_022026-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_675672-MLA106649361631_022026-F.webp?v=1775312257
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_675672-MLA106649361631_022026-F.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_675672-MLA106649361631_022026-F_500x500.webp?v=1775312257
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_675672-MLA106649361631_022026-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_679526-MLA100501405537_122025-F.webp?v=1775312220
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_679526-MLA100501405537_122025-F.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_679526-MLA100501405537_122025-F_500x500.webp?v=1775312220
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_679526-MLA100501405537_122025-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_679526-MLA100501405537_122025-F_large.webp?v=1775312220
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_679526-MLA100501405537_122025-F_large-1.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_748896-MLA106035739758_022026-F.webp?v=1775312283
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_748896-MLA106035739758_022026-F.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_748896-MLA106035739758_022026-F_500x500.webp?v=1775312283
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_748896-MLA106035739758_022026-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_831792-MLA106034223508_022026-F.webp?v=1775312261
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_831792-MLA106034223508_022026-F.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_831792-MLA106034223508_022026-F_500x500.webp?v=1775312261
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_831792-MLA106034223508_022026-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_868276-MLA106652635647_022026-F.webp?v=1775312238
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_868276-MLA106652635647_022026-F.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_868276-MLA106652635647_022026-F_500x500.webp?v=1775312238
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_868276-MLA106652635647_022026-F_500x500.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/files/D_NQ_NP_2X_977255-MLB91305968039_082025-F-kit-02-poltronas-decorativa-opala-para-sala-recepco-luxo_large.webp?v=1775312577
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\files\D_NQ_NP_2X_977255-MLB91305968039_082025-F-kit-02-poltronas-decorativa-opala-para-sala-recepco-luxo_large-1.webp
+Content Type: image/jpeg
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/t/2/assets/anuncios.css?v=39812125426138827171774206624
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\t\2\assets\anuncios-1.css
+Content Type: text/css
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/t/2/assets/catalizador.css?v=157647407421720016571774206624
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\t\2\assets\catalizador-1.css
+Content Type: text/css
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/t/2/assets/desktop.css?v=134837194395233590961774206624
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\t\2\assets\desktop-1.css
+Content Type: text/css
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/t/2/assets/favicon.png?v=145227305158328575881774206624
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\t\2\assets\favicon-1.png
+Content Type: image/png
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/t/2/assets/mobile.css?v=5194926563674630791774206624
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\t\2\assets\mobile-1.css
+Content Type: text/css
+
+Uri: https://diasmoveis.myshopify.com/cdn/shop/t/2/assets/tamanho.css?v=177359468726002113431774206624
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shop\t\2\assets\tamanho-1.css
+Content Type: text/css
+
+Uri: https://diasmoveis.myshopify.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shopifycloud\perf-kit\shopify-perf-kit-3.3.1.min-1.js
+Content Type: text/javascript
+
+Uri: https://diasmoveis.myshopify.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shopifycloud\portable-wallets\latest\accelerated-checkout-backwards-compat-1.css
+Content Type: text/css
+
+Uri: https://diasmoveis.myshopify.com/cdn/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.pt-BR.esm.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shopifycloud\shop-js\modules\v2\loader.init-shop-cart-sync.pt-BR.esm-1.js
+Content Type: text/javascript
+
+Uri: https://diasmoveis.myshopify.com/cdn/shopifycloud/storefront/assets/no-image-2048-a2addb12.gif
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shopifycloud\storefront\assets\no-image-2048-a2addb12-1.gif
+Content Type: image/gif
+
+Uri: https://diasmoveis.myshopify.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-496de5fe.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\cdn\shopifycloud\storefront\assets\storefront\load_feature-496de5fe-1.js
+Content Type: text/javascript
+
+Uri: https://diasmoveis.myshopify.com/checkouts/internal/preloads.js?locale=pt-BR
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\checkouts\internal\preloads-1.js
+Content Type: application/javascript
+
+Uri: https://diasmoveis.myshopify.com/products/bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-6kg-inercia-marca-sevenfit
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\products\bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-6kg-inercia-marca-sevenfit.html
+Content Type: text/html
+
+Uri: https://diasmoveis.myshopify.com/products/bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-6kg-inercia-marca-sevenfit.oembed
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\products\bicicleta-ergometrica-fitness-para-cardio-e-musculacao-com-base-cor-preto-e-vermelho-6kg-inercia-marca-sevenfit.oembed
+Content Type: application/json+oembed
+
+Uri: https://http2.mlstatic.com/D_NQ_802965-MLA75056376619_032024-OO.webp
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\D_NQ_802965-MLA75056376619_032024-OO-1.webp
+Content Type: image/webp
+
+Uri: https://http2.mlstatic.com/D_NQ_818238-MLA109888870887_032026-OO.webp
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\D_NQ_818238-MLA109888870887_032026-OO-1.webp
+Content Type: image/webp
+
+Uri: https://http2.mlstatic.com/D_NQ_NP_914488-MLA74840999426_032024-G.jpg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\D_NQ_NP_914488-MLA74840999426_032024-G-1.jpg
+Content Type: image/jpeg
+
+Uri: https://http2.mlstatic.com/D_NQ_NP_982972-MLA74841271014_032024-OO.jpg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\D_NQ_NP_982972-MLA74841271014_032024-OO-1.jpg
+Content Type: image/jpeg
+
+Uri: https://http2.mlstatic.com/D_Q_NP_796313-MLU74309835211_012024-O.webp
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\D_Q_NP_796313-MLU74309835211_012024-O-1.webp
+Content Type: image/webp
+
+Uri: https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.5.16/mercadolibre/gray-star.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\ml-web-navigation\ui-navigation\6.5.16\mercadolibre\gray-star-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.6.34/mercadolibre/logo-anniversary-banner.png
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\ml-web-navigation\ui-navigation\6.6.34\mercadolibre\logo-anniversary-banner-1.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.6.34/mercadolibre/logo-pt__large_25years.png
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\ml-web-navigation\ui-navigation\6.6.34\mercadolibre\logo-pt__large_25years.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/frontend-assets/ml-web-navigation/ui-navigation/6.6.34/mercadolibre/logo-pt__small_25years.png
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\ml-web-navigation\ui-navigation\6.6.34\mercadolibre\logo-pt__small_25years-1.png
+Content Type: image/png
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/generic-modal.mobile.5bae6201.css
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\vpp-frontend\generic-modal.mobile.5bae6201-1.css
+Content Type: text/css
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/medal.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\vpp-frontend\medal-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/message-positive.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\vpp-frontend\message-positive-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/mpago.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\vpp-frontend\mpago-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/frontend-assets/vpp-frontend/time-positive.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\frontend-assets\vpp-frontend\time-positive-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/resources/splash/force-splash-v5.js
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\resources\splash\force-splash-v5-1.js
+Content Type: application/javascript
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/hdmi.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\catalog-technical-specs\images\assets\vectorial\hdmi-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/integrated_apps.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\catalog-technical-specs\images\assets\vectorial\integrated_apps-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/resolution_type.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\catalog-technical-specs\images\assets\vectorial\resolution_type-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/screen_type.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\catalog-technical-specs\images\assets\vectorial\screen_type-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/smart.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\catalog-technical-specs\images\assets\vectorial\smart-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/television_size_v3.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\catalog-technical-specs\images\assets\vectorial\television_size_v3-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/00174300-571e-11e8-8364-bff51f08d440-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\00174300-571e-11e8-8364-bff51f08d440-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/1e7db140-6f0b-11ec-813c-8542a9aff8ea-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\1e7db140-6f0b-11ec-813c-8542a9aff8ea-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/37f7b160-6278-11ec-ae75-df2bef173be2-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\37f7b160-6278-11ec-ae75-df2bef173be2-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/51b446b0-571c-11e8-9a2d-4b2bd7b1bf77-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\51b446b0-571c-11e8-9a2d-4b2bd7b1bf77-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\a5f047d0-9be0-11ec-aad4-c3381f368aaf-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/aa2b8f70-5c85-11ec-ae75-df2bef173be2-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\aa2b8f70-5c85-11ec-ae75-df2bef173be2-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\b2c93a40-f3be-11eb-9984-b7076edb0bb7-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/d2407420-f3bd-11eb-8e0d-6f4af49bf82e-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\d2407420-f3bd-11eb-8e0d-6f4af49bf82e-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/d572fb20-8da7-11ec-b5e8-23212ecb99a1-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\d572fb20-8da7-11ec-b5e8-23212ecb99a1-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/ddf23a60-f3bd-11eb-a186-1134488bf456-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\ddf23a60-f3bd-11eb-a186-1134488bf456-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/ed8d6fd0-f3bd-11eb-9984-b7076edb0bb7-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\ed8d6fd0-f3bd-11eb-9984-b7076edb0bb7-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/storage/logos-api-admin/f99fcca0-f3bd-11eb-9984-b7076edb0bb7-m.svg
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\storage\logos-api-admin\f99fcca0-f3bd-11eb-9984-b7076edb0bb7-m-1.svg
+Content Type: image/svg+xml
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.ttf
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-light-1.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-light-1.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-light-1.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.ttf
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular-1.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular-1.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.ttf
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold-1.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold-1.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold-1.woff2
+Content Type: font/woff2
+
+-light.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-light.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-light.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.ttf
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-regular.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-regular.woff2
+Content Type: font/woff2
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.ttf
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.ttf
+Content Type: font/ttf
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.woff
+Content Type: font/woff
+
+Uri: https://http2.mlstatic.com/ui/webfonts/v3.0.0/proxima-nova/proximanova-semibold.woff2
+File Name: C:\Downloaded Web Sites\mlv\diasmoveis.myshopify.com\ui\webfonts\v3.0.0\proxima-nova\proximanova-semibold.woff2
+Content Type: font/woff2
+
